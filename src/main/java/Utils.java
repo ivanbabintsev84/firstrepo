@@ -1,4 +1,4 @@
 public class Utils {
-    private String name;
-    private String surname;
+    private final String name = "Ivan";
+    private final  String surname = "Ivanov";
 }
